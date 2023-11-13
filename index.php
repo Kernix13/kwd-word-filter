@@ -2,7 +2,7 @@
 
 /*
   Plugin Name:  KWD Word Filter Plugin
-  Plugin URI:   https://github.com/Kernix13
+  Plugin URI:   https://github.com/Kernix13/kwd-word-filter
   Description:  Replace certain words
   Version:      1.0.0
   Author:       James Kernicky
