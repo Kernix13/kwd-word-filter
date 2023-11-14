@@ -3,7 +3,8 @@
 /*
   Plugin Name:  KWD Word Filter Plugin
   Plugin URI:   https://github.com/Kernix13/kwd-word-filter
-  Description:  Replace certain words
+  Description:  Filter certain words in blog posts with an option to
+                replace them.
   Version:      1.0.0
   Author:       James Kernicky
   Author URI:   https://kernixwebdesign.com/
